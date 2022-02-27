@@ -1,0 +1,197 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Good nevves from General Blakes fleet twenty Holland ships taken: vvith a list of the particulars. And the vvhole Hollanders fleet pursued by Gen. Blake and Sir George Ayscue. Also how the Hollanders fell upon 10 English merchants ships, and three men of war. And the successe thereof.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85351</idno>
+            <idno type="STC">Wing G1056</idno>
+            <idno type="STC">Thomason E675_11</idno>
+            <idno type="STC">ESTC R202304</idno>
+            <idno type="EEBO-CITATION">99862639</idno>
+            <idno type="PROQUEST">99862639</idno>
+            <idno type="VID">114805</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85351)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114805)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 104:E675[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Good nevves from General Blakes fleet twenty Holland ships taken: vvith a list of the particulars. And the vvhole Hollanders fleet pursued by Gen. Blake and Sir George Ayscue. Also how the Hollanders fell upon 10 English merchants ships, and three men of war. And the successe thereof.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Ibbitson dwelling in Smithfield neer Hosier Lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Septemb. 20.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Blake, Robert, 1599-1657.</term>
+               <term>Ayscue, George, --  Sir, fl. 1646-1671.</term>
+               <term>Naval battles --  Early works to 1800.</term>
+               <term>Anglo-Dutch War, 1652-1654 --  Sources.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114805:1" rendition="simple:additions"/>
+            <p>GOOD NEVVES FROM General Blakes Fleet</p>
+            <p>Twenty Holland ſhips taken: VVith a LIST of the Particulars.</p>
+            <p>AND The VVhole Hollanders Fleet purſued by <hi>Gen. Blake</hi> and <hi>Sir George Ayſcue.</hi>
+            </p>
+            <p>ALSO How the Hollanders fell upon 10 Eng<g ref="char:EOLhyphen"/>liſh <hi>Merchants ſhips, and three Men of War. And the Succeſſe thereof.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Robert Ibbitſon</hi> dwelling in Smith<g ref="char:EOLhyphen"/>field neer Hoſier Lane. 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:114805:2"/>
+            <pb n="1" facs="tcp:114805:2"/>
+            <head>A Letter from PLIMOVTH Touching The good Succeſſe of Generall <hi>Blake,</hi> and Sir <hi>George Aſcues</hi> taking of ſeverall Merchants ſhips and others, from the HOLLANDERS.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">O</seg>N Wedneſday the 8th. of this preſent <hi>September</hi> 1652. Generall <hi>Blake</hi> with the Parliaments great fleet paſſed by within ſight of this place.</p>
+            <p>A Meſſage was ſent in from him to Sir <hi>George Ayſcue,</hi> who with his fleet was then at anchor in this Roade, To deſire him to weigh Anchor, and come out ſpeedily to him with his fleet.</p>
+            <pb n="2" facs="tcp:114805:3"/>
+            <p>Sir <hi>George Ayſcue</hi> then preſently ſent out Orders to all the ſhips, and they all ſailed out, according to the Orders ſent in by Gen. <hi>Blake.</hi>
+            </p>
+            <p>After ſalutation of the Fleets, Sir <hi>Geo. Ayſ<g ref="char:EOLhyphen"/>eue</hi> went aboard the Admirall to the Gene<g ref="char:EOLhyphen"/>rall, where a Councell of Officers preſently met, and reſolved to ſaile Weſtward to<g ref="char:EOLhyphen"/>wards the Holland Fleet, or where they ſhould diſcover them to be.</p>
+            <p>That night in the evening they ſet all ſail Weſtward, the ſeaſon being very good, faire weather that day and the next, and the wind good.</p>
+            <p>But ſince that, we have had ſome boy<g ref="char:EOLhyphen"/>ſterous winds, which have been very high, but I doe not heare of any great loſſe, or harme (bleſſed be God) that we have ſuſtai<g ref="char:EOLhyphen"/>ned by it.</p>
+            <p>The Lord hath been pleaſed to give ſome good ſucceſſes to our Fleet ſince they went out from hence.</p>
+            <p>For Generall <hi>Blake</hi> hath ſent out ſqua<g ref="char:EOLhyphen"/>drons of ſhips which have taken from the
+<pb n="3" facs="tcp:114805:3"/>Hollanders twenty ſaile of Ships, whereof one Man of Warre, one Pickeroon, and the reſt Merchants ſhips.</p>
+            <p>The Merchants Ships are laden with wine, Strong-waters, vinegar, ſalt, and o<g ref="char:EOLhyphen"/>ther merchandizes to ſome value.</p>
+            <p>Seven of theſe ſhips are already come in<g ref="char:EOLhyphen"/>to Plimouth, and orders ſent for diſpoſall of them, with directions and inſtructions, the reſt being thirteen, when theſe came a<g ref="char:EOLhyphen"/>way from the Fleet, they were ordering to be diſpoſed of, they are ſpeedily to be ſent into ſome Port.</p>
+            <p>The Dutch-men in the Man of warre ſeeme to be but ſorry Sea-men, and it was not extraordinary well manned; they ſpeake of great diſtractions in Holland, and Zeland, but chiefly in Holland, the Zeland Sea-men are very famous.</p>
+            <p>On Thurſday laſt Generall <hi>Blake</hi> had a diſcovery of the Holland Fleet, which are thought to be about a hundred ſaile, and Generall <hi>Blake,</hi> now with Sir <hi>George Ayſcue,</hi> both joyned, are neare an hundred ſaile, I
+<pb n="4" facs="tcp:114805:4"/>thinke of the-beſt Ships, and the gallanteſt Fleet in the world.</p>
+            <p>The Holland Fleet were then diſcove<g ref="char:EOLhyphen"/>red to be about ſome twelve Leagues off from Scilly.</p>
+            <p>Hereupo, this diſcovery being made, a Councell of VVarre was called, to conſult what to doe.</p>
+            <p>And it was reſolved with a great union and magnanimity, that they ſhould pre<g ref="char:EOLhyphen"/>ſently ſaile towards them, and endea<g ref="char:EOLhyphen"/>vour if poſſibly to engage them.</p>
+            <p>And accordingly our whole Fleet ſailed towards the Hollanders great Fleet, and are in purſuit of them.</p>
+            <p>We doe obſerve, that the Hollanders doe much vapour, and make ſhewes, and boaſtings where they come, at a diſtance from us, and they finde themſelves able to deale with ſome ſmaller party then them<g ref="char:EOLhyphen"/>ſelves, but when any conſiderable Party, any wayes able to deale with them come neare them, then they ſaile away.</p>
+            <p>And they are moſt often ſeen, and appear
+<pb n="5" facs="tcp:114805:4"/>in view towards the evening, that ſo in the night they may ſlink away out of ſight, we cannot tell where.</p>
+            <p>Were not the Hollanders puft up in pride and hardneſſe of heart like <hi>Pharoah</hi> and the <hi>Egyptians,</hi> they would not goe on in their obſtinacy as they doe.</p>
+            <q>
+               <hi>But though hand joyn in hand the wicked ſhall not goe unpuniſhed.</hi>
+            </q>
+            <closer>
+               <dateline>
+                  <hi>Plimouth</hi> 
+                  <date>14 <hi>Septemb.</hi> 1652.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>By other Letters from other Ports it is certifi<g ref="char:EOLhyphen"/>ed, That there came lately ten ſhips from</hi> Britta<g ref="char:EOLhyphen"/>ny <hi>in</hi> France, 3 <hi>men of War, the Swan and</hi> 2 <hi>more were a guard to the reſt, which were Mer<g ref="char:EOLhyphen"/>chants, the lading very rich, of a conſiderable va<g ref="char:EOLhyphen"/>lue.</hi>
+               </p>
+               <p>
+                  <hi>One of the Dutch fleets had a diſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>very of them, and engaged them, but the Engliſh ſtood out couragiouſly, and oppoſed them, and by the bleſsing of God brake through them, charging the Dutch with a great deale of gallantry, and are all ſafely arrived in the Downs.</hi>
+               </p>
+               <closer>
+                  <dateline>Dover <date>15 Septemb. 1652.</date>
+                  </dateline>
+               </closer>
+            </postscript>
+         </div>
+         <div type="list_of_ships">
+            <pb n="6" facs="tcp:114805:5"/>
+            <head>A Liſt of the ſhips taken by Ge<g ref="char:EOLhyphen"/>nerall <hi>Blake</hi> and Sir <hi>George Ayſcue,</hi> from the Dutch, ſince they ſet ſaile from <hi>Plimouth.</hi> From <hi>Wedneſday</hi> 8. <hi>September,</hi> to <hi>Tueſday</hi> 14 <hi>September</hi> 1652.</head>
+            <list>
+               <item>1 Man of War, a very conſiderable Veſſel</item>
+               <item>1 Pickeroon, a notorious plunderer.</item>
+               <item>10 Merchants ſhips, all laden with Wines Salt, Strong-water, Vinegar, and other Merchandizes.</item>
+               <item>The whole Dutch Fleet purſued about 12 Leagues from <hi>Scilley.</hi>
+               </item>
+            </list>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
